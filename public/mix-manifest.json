@@ -3503,7 +3503,10 @@
     "/assets/plugins/angular/LICENSE.md": "/assets/plugins/angular/LICENSE.md",
     "/assets/plugins/angular/package.json": "/assets/plugins/angular/package.json",
     "/assets/plugins/angular/README.md": "/assets/plugins/angular/README.md",
+<<<<<<< HEAD
     "/assets/plugins/angular-ui-bootstrap/CHANGELOG.md": "/assets/plugins/angular-ui-bootstrap/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/angular-ui-bootstrap/dist/ui-bootstrap-csp.css": "/assets/plugins/angular-ui-bootstrap/dist/ui-bootstrap-csp.css",
     "/assets/plugins/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js": "/assets/plugins/angular-ui-bootstrap/dist/ui-bootstrap-tpls.js",
     "/assets/plugins/angular-ui-bootstrap/dist/ui-bootstrap.js": "/assets/plugins/angular-ui-bootstrap/dist/ui-bootstrap.js",
@@ -3735,7 +3738,10 @@
     "/assets/plugins/angular-ui-bootstrap/template/typeahead/typeahead-popup.html": "/assets/plugins/angular-ui-bootstrap/template/typeahead/typeahead-popup.html",
     "/assets/plugins/angular-ui-bootstrap/template/typeahead/typeahead-popup.html.js": "/assets/plugins/angular-ui-bootstrap/template/typeahead/typeahead-popup.html.js",
     "/assets/plugins/angular-ui-router/artifacts.json": "/assets/plugins/angular-ui-router/artifacts.json",
+<<<<<<< HEAD
     "/assets/plugins/angular-ui-router/CHANGELOG.md": "/assets/plugins/angular-ui-router/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/angular-ui-router/CONTRIBUTING.md": "/assets/plugins/angular-ui-router/CONTRIBUTING.md",
     "/assets/plugins/angular-ui-router/DOCS.md": "/assets/plugins/angular-ui-router/DOCS.md",
     "/assets/plugins/angular-ui-router/downstream_projects.json": "/assets/plugins/angular-ui-router/downstream_projects.json",
@@ -6845,7 +6851,10 @@
     "/assets/plugins/bootstrap-social/bower.json": "/assets/plugins/bootstrap-social/bower.json",
     "/assets/plugins/bootstrap-social/index.html": "/assets/plugins/bootstrap-social/index.html",
     "/assets/plugins/bootstrap-social/LICENSE": "/assets/plugins/bootstrap-social/LICENSE",
+<<<<<<< HEAD
     "/assets/plugins/bootstrap-social/node_modules/bootstrap/CHANGELOG.md": "/assets/plugins/bootstrap-social/node_modules/bootstrap/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css": "/assets/plugins/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css",
     "/assets/plugins/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css.map": "/assets/plugins/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.css.map",
     "/assets/plugins/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.min.css": "/assets/plugins/bootstrap-social/node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
@@ -6965,7 +6974,10 @@
     "/assets/plugins/bootstrap-social/node_modules/bootstrap/README.md": "/assets/plugins/bootstrap-social/node_modules/bootstrap/README.md",
     "/assets/plugins/bootstrap-social/package.json": "/assets/plugins/bootstrap-social/package.json",
     "/assets/plugins/bootstrap-social/README.md": "/assets/plugins/bootstrap-social/README.md",
+<<<<<<< HEAD
     "/assets/plugins/bootstrap-timepicker/CHANGELOG.md": "/assets/plugins/bootstrap-timepicker/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.css": "/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.css",
     "/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.min.css": "/assets/plugins/bootstrap-timepicker/css/bootstrap-timepicker.min.css",
     "/assets/plugins/bootstrap-timepicker/css/timepicker.less": "/assets/plugins/bootstrap-timepicker/css/timepicker.less",
@@ -9733,7 +9745,10 @@
     "/assets/plugins/ckeditor/plugins/save/lang/zh-cn.js": "/assets/plugins/ckeditor/plugins/save/lang/zh-cn.js",
     "/assets/plugins/ckeditor/plugins/save/lang/zh.js": "/assets/plugins/ckeditor/plugins/save/lang/zh.js",
     "/assets/plugins/ckeditor/plugins/save/plugin.js": "/assets/plugins/ckeditor/plugins/save/plugin.js",
+<<<<<<< HEAD
     "/assets/plugins/ckeditor/plugins/scayt/CHANGELOG.md": "/assets/plugins/ckeditor/plugins/scayt/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/ckeditor/plugins/scayt/dialogs/dialog.css": "/assets/plugins/ckeditor/plugins/scayt/dialogs/dialog.css",
     "/assets/plugins/ckeditor/plugins/scayt/dialogs/options.js": "/assets/plugins/ckeditor/plugins/scayt/dialogs/options.js",
     "/assets/plugins/ckeditor/plugins/scayt/dialogs/toolbar.css": "/assets/plugins/ckeditor/plugins/scayt/dialogs/toolbar.css",
@@ -11076,7 +11091,10 @@
     "/assets/plugins/datepickk/src/css/datepickk.less": "/assets/plugins/datepickk/src/css/datepickk.less",
     "/assets/plugins/datepickk/src/js/datepickk.js": "/assets/plugins/datepickk/src/js/datepickk.js",
     "/assets/plugins/datepickk/webpack.config.js": "/assets/plugins/datepickk/webpack.config.js",
+<<<<<<< HEAD
     "/assets/plugins/dropzone/CHANGELOG.md": "/assets/plugins/dropzone/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/dropzone/CODE_OF_CONDUCT.md": "/assets/plugins/dropzone/CODE_OF_CONDUCT.md",
     "/assets/plugins/dropzone/composer.json": "/assets/plugins/dropzone/composer.json",
     "/assets/plugins/dropzone/dist/basic.css": "/assets/plugins/dropzone/dist/basic.css",
@@ -11649,7 +11667,10 @@
     "/assets/plugins/flag-icon-css/sass/_flag-icons-list.scss": "/assets/plugins/flag-icon-css/sass/_flag-icons-list.scss",
     "/assets/plugins/flag-icon-css/sass/_variables.scss": "/assets/plugins/flag-icon-css/sass/_variables.scss",
     "/assets/plugins/flag-icon-css/svgo.config.js": "/assets/plugins/flag-icon-css/svgo.config.js",
+<<<<<<< HEAD
     "/assets/plugins/flot/CHANGELOG.md": "/assets/plugins/flot/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/flot/dist/es5/jquery.flot.js": "/assets/plugins/flot/dist/es5/jquery.flot.js",
     "/assets/plugins/flot/docs/absRelTime.md": "/assets/plugins/flot/docs/absRelTime.md",
     "/assets/plugins/flot/docs/API.md": "/assets/plugins/flot/docs/API.md",
@@ -16111,7 +16132,10 @@
     "/assets/plugins/jquery-mockjax/bower.json": "/assets/plugins/jquery-mockjax/bower.json",
     "/assets/plugins/jquery-mockjax/browserstack-config.js": "/assets/plugins/jquery-mockjax/browserstack-config.js",
     "/assets/plugins/jquery-mockjax/browserstack.js": "/assets/plugins/jquery-mockjax/browserstack.js",
+<<<<<<< HEAD
     "/assets/plugins/jquery-mockjax/CHANGELOG.md": "/assets/plugins/jquery-mockjax/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/jquery-mockjax/CONTRIBUTING.md": "/assets/plugins/jquery-mockjax/CONTRIBUTING.md",
     "/assets/plugins/jquery-mockjax/dist/jquery.mockjax.js": "/assets/plugins/jquery-mockjax/dist/jquery.mockjax.js",
     "/assets/plugins/jquery-mockjax/dist/jquery.mockjax.min.js": "/assets/plugins/jquery-mockjax/dist/jquery.mockjax.min.js",
@@ -16664,7 +16688,10 @@
     "/assets/plugins/lightbox2/src/images/next.png": "/assets/plugins/lightbox2/src/images/next.png",
     "/assets/plugins/lightbox2/src/images/prev.png": "/assets/plugins/lightbox2/src/images/prev.png",
     "/assets/plugins/lightbox2/src/js/lightbox.js": "/assets/plugins/lightbox2/src/js/lightbox.js",
+<<<<<<< HEAD
     "/assets/plugins/lity/CHANGELOG.md": "/assets/plugins/lity/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/lity/dist/lity.css": "/assets/plugins/lity/dist/lity.css",
     "/assets/plugins/lity/dist/lity.js": "/assets/plugins/lity/dist/lity.js",
     "/assets/plugins/lity/dist/lity.min.css": "/assets/plugins/lity/dist/lity.min.css",
@@ -16680,7 +16707,10 @@
     "/assets/plugins/masonry-layout/masonry.js": "/assets/plugins/masonry-layout/masonry.js",
     "/assets/plugins/masonry-layout/package.json": "/assets/plugins/masonry-layout/package.json",
     "/assets/plugins/masonry-layout/README.md": "/assets/plugins/masonry-layout/README.md",
+<<<<<<< HEAD
     "/assets/plugins/moment/CHANGELOG.md": "/assets/plugins/moment/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/moment/dist/locale/af.js": "/assets/plugins/moment/dist/locale/af.js",
     "/assets/plugins/moment/dist/locale/ar-dz.js": "/assets/plugins/moment/dist/locale/ar-dz.js",
     "/assets/plugins/moment/dist/locale/ar-kw.js": "/assets/plugins/moment/dist/locale/ar-kw.js",
@@ -17418,7 +17448,10 @@
     "/assets/plugins/oclazyload/bower_components/angular-mocks/package.json": "/assets/plugins/oclazyload/bower_components/angular-mocks/package.json",
     "/assets/plugins/oclazyload/bower_components/angular-mocks/README.md": "/assets/plugins/oclazyload/bower_components/angular-mocks/README.md",
     "/assets/plugins/oclazyload/changelog.js": "/assets/plugins/oclazyload/changelog.js",
+<<<<<<< HEAD
     "/assets/plugins/oclazyload/CHANGELOG.md": "/assets/plugins/oclazyload/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/oclazyload/coverage/Firefox 51.0.0 (Windows 10 0.0.0)/base.css": "/assets/plugins/oclazyload/coverage/Firefox 51.0.0 (Windows 10 0.0.0)/base.css",
     "/assets/plugins/oclazyload/coverage/Firefox 51.0.0 (Windows 10 0.0.0)/index.html": "/assets/plugins/oclazyload/coverage/Firefox 51.0.0 (Windows 10 0.0.0)/index.html",
     "/assets/plugins/oclazyload/coverage/Firefox 51.0.0 (Windows 10 0.0.0)/prettify.css": "/assets/plugins/oclazyload/coverage/Firefox 51.0.0 (Windows 10 0.0.0)/prettify.css",
@@ -17623,7 +17656,10 @@
     "/assets/plugins/pace-js/themes/yellow/pace-theme-material.css": "/assets/plugins/pace-js/themes/yellow/pace-theme-material.css",
     "/assets/plugins/pace-js/themes/yellow/pace-theme-minimal.css": "/assets/plugins/pace-js/themes/yellow/pace-theme-minimal.css",
     "/assets/plugins/parsleyjs/bower.json": "/assets/plugins/parsleyjs/bower.json",
+<<<<<<< HEAD
     "/assets/plugins/parsleyjs/CHANGELOG.md": "/assets/plugins/parsleyjs/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/parsleyjs/coverage/coverage-final.json": "/assets/plugins/parsleyjs/coverage/coverage-final.json",
     "/assets/plugins/parsleyjs/coverage/lcov-report/base.css": "/assets/plugins/parsleyjs/coverage/lcov-report/base.css",
     "/assets/plugins/parsleyjs/coverage/lcov-report/index.html": "/assets/plugins/parsleyjs/coverage/lcov-report/index.html",
@@ -17818,7 +17854,10 @@
     "/assets/plugins/pdfmake/build/pdfmake.min.js.map": "/assets/plugins/pdfmake/build/pdfmake.min.js.map",
     "/assets/plugins/pdfmake/build/vfs_fonts.js": "/assets/plugins/pdfmake/build/vfs_fonts.js",
     "/assets/plugins/pdfmake/build-vfs.js": "/assets/plugins/pdfmake/build-vfs.js",
+<<<<<<< HEAD
     "/assets/plugins/pdfmake/CHANGELOG.md": "/assets/plugins/pdfmake/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/pdfmake/LICENSE": "/assets/plugins/pdfmake/LICENSE",
     "/assets/plugins/pdfmake/node_modules/iconv-lite/Changelog.md": "/assets/plugins/pdfmake/node_modules/iconv-lite/Changelog.md",
     "/assets/plugins/pdfmake/node_modules/iconv-lite/encodings/dbcs-codec.js": "/assets/plugins/pdfmake/node_modules/iconv-lite/encodings/dbcs-codec.js",
@@ -18025,7 +18064,10 @@
     "/assets/plugins/select-picker/test/fixtures/multiple.fixture.html": "/assets/plugins/select-picker/test/fixtures/multiple.fixture.html",
     "/assets/plugins/select-picker/test/fixtures/single.fixture.html": "/assets/plugins/select-picker/test/fixtures/single.fixture.html",
     "/assets/plugins/select-picker/test/picker.test.js": "/assets/plugins/select-picker/test/picker.test.js",
+<<<<<<< HEAD
     "/assets/plugins/select2/CHANGELOG.md": "/assets/plugins/select2/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/select2/dist/css/select2.css": "/assets/plugins/select2/dist/css/select2.css",
     "/assets/plugins/select2/dist/css/select2.min.css": "/assets/plugins/select2/dist/css/select2.min.css",
     "/assets/plugins/select2/dist/js/i18n/af.js": "/assets/plugins/select2/dist/js/i18n/af.js",
@@ -19586,7 +19628,10 @@
     "/assets/plugins/swiper/vue/utils.js": "/assets/plugins/swiper/vue/utils.js",
     "/assets/plugins/swiper/vue/virtual.js": "/assets/plugins/swiper/vue/virtual.js",
     "/assets/plugins/switchery/bower.json": "/assets/plugins/switchery/bower.json",
+<<<<<<< HEAD
     "/assets/plugins/switchery/CHANGELOG.md": "/assets/plugins/switchery/CHANGELOG.md",
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
     "/assets/plugins/switchery/component.json": "/assets/plugins/switchery/component.json",
     "/assets/plugins/switchery/dist/switchery.css": "/assets/plugins/switchery/dist/switchery.css",
     "/assets/plugins/switchery/dist/switchery.js": "/assets/plugins/switchery/dist/switchery.js",

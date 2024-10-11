@@ -14,6 +14,9 @@
 	@yield('content')
 			
 	@include('includes.page-js')
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 19e847e61808a4a254945f11f581edb63c754df5
 </body>
 </html>
