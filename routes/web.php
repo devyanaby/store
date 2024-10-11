@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\KategoriController;
 use App\Http\Controllers\ProdukController;
-use App\Http\Controllers\SupplieController;
+use App\Http\Controllers\SupplierController;
 use App\Http\Controllers\MainController;
 
 
