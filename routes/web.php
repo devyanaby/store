@@ -1,15 +1,16 @@
 <?php
-use App\Http\Controllers\KategoriController;
 
+use App\Http\Controllers\KategoriController;
+use App\Http\Controllers\MainController;
 
 
 Route::get('/', function () {
 	return redirect('/dashboard');
 });
-Route::get('/dashboard', 'MainController@dashboard')->name('dashboard');
 
+Route::get('/dashboard', [MainController::class, 'dashboard'])->name('dashboard');
 Route::get('/kategori/data', [KategoriController::class, 'data']);
-Route::resource('kategori' , KategoriController::class);
+Route::resource('/kategori' , KategoriController::class);
 
 // Route::get('kategori/index', 'MainController@kategori')->name('kategori');
 
